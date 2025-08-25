@@ -73,6 +73,3 @@ Run the Data_Cleaning_and_Storage.ipynb notebook to clean the data and save it t
 View Dashboard:
 
 Open the Power BI dashboard file (not included, but images are provided as examples) and connect it to your local MySQL database.
-
-📜 License
-This project is licensed under the MIT License.
